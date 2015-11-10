@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "OO Style page objects for capybara"
   spec.description   = "OO Style page objects for capybara"
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/garytaylor/capybara_objects"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
