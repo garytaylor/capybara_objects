@@ -1,0 +1,1 @@
+require "capybara_objects/rspec/helpers/feature_helpers"

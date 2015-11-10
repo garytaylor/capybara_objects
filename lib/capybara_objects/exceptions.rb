@@ -1,0 +1,2 @@
+require_relative "exceptions/type_not_registered"
+require_relative "exceptions/missing_url"
